@@ -56,6 +56,8 @@ CCTV文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
+珠江卫视,http://r.jdshipin.com/sE5vO
+珠江卫视.720,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
@@ -65,11 +67,8 @@ CCTV文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 西藏卫视,http://111.20.40.160/PLTV/88888893/224/3221226212/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-天映频道,http://103.112.191.9:880/LAOSAT1029.m3u8
-湖南电影,http://111.8.150.191:8085/tsfile/live/1012_1.m3u8
-浙江钱江HD,http://223.95.111.98:5555/newlive/live/hls/21/live.m3u8
-四川,#genre#
 四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8?key=txiptv&url=tvzb.com
+四川,#genre#
 四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8?key=txiptv&url=tvzb.com
 四川文旅,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
 四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8?key=txiptv&url=tvzb.com
@@ -79,3 +78,6 @@ CCTV文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8
 中国教育4台,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 中国教育3台,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 中国教育2台,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
+天映频道,http://103.112.191.9:880/LAOSAT1029.m3u8
+湖南电影,http://111.8.150.191:8085/tsfile/live/1012_1.m3u8
+浙江钱江HD,http://223.95.111.98:5555/newlive/live/hls/21/live.m3u8
