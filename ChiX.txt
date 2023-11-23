@@ -90,8 +90,6 @@ CCTV文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 西藏卫视,http://111.20.40.160/PLTV/88888893/224/3221226212/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -129,9 +127,11 @@ CCTV文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8
 内蒙古卫视,http://222.175.159.226:808/hls/202366/index.m3u8
 凤凰卫视,http://113.117.74.28:8081/hls/37/index.m3u8
 少儿,#genre#
-金鹰卡通,http://218.19.13.245:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://218.19.13.245:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳少儿,http://218.19.13.245:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 少儿频道,http://218.19.13.245:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 四川,#genre#
 四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8?key=txiptv&url=tvzb.com
 四川文旅,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
